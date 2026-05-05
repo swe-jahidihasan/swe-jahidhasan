@@ -9,42 +9,17 @@
 
 ## 🚀 About Me
 
-* 🔭 I’m currently working on Flutter Applications
-* 🌱 I’m learning Clean Architecture & advanced state management
-* 💼 I’m looking for internship & job opportunities
-* 📍 Based in Rangpur, Bangladesh
+* 🔭 I’m currently working on **iBank** and **JobSpot** applications.
+* 🌱 I’m learning **Clean Architecture** and GetX for advanced state management.
+* 💼 I’m looking for internship and software developer job opportunities.
+* 📍 Based in Rangpur, Bangladesh.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio" />
-</p>
-
----
-
-## 📱 Featured Projects
-
-### 🏦 iBank App
-
-🔗 https://github.com/swe-jahidihasan/iBank
-
-### 🍔 Food Delivery App
-
-🔗 https://github.com/swe-jahidihasan/food-delivery-app
-
-### 🛒 Ecommerce App
-
-🔗 https://github.com/swe-jahidihasan/ecommerce
-
----
-
-## 📸 App Screenshots
-
-<p align="center">
-  <img src="screenshots/home.png" width="250"/>
-  <img src="screenshots/details.png" width="250"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,figma" />
 </p>
 
 ---
@@ -52,31 +27,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=swe-jahidihasan&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swe-jahidihasan&show_icons=true&theme=tokyonight" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swe-jahidihasan&show_icons=true&theme=tokyonight" />
-</p>
-
----
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link">LinkedIn</a> •
-  <a href="https://facebook.com/your-link">Facebook</a> •
-  <a href="mailto:your@email.com">Email</a>
+  <a href="https://linkedin.com/in/swe-jahidihasan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jahidihasan.swe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-## 💡 Fun Fact
-
-⚡ I love building apps that solve real-world problems and improve user experience
-
