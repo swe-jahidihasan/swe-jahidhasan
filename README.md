@@ -71,4 +71,33 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swe-jahidihasan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swe-jahidihasan&layout=compact&theme=tokyonight&hide_border=true" width="49%"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swe-jahidihasan&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swe-jahidihasan&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 🏆 Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swe-jahidihasan&theme=tokyonight" width="100%" />
+</p>
+
+---
+
+### 📫 Get In Touch
+
+- **Email:** [jahidihasan.swe@gmail.com](mailto:jahidihasan.swe@gmail.com)
+- **LinkedIn:** [linkedin.com/in/swe-jahidihasan](https://linkedin.com/in/swe-jahidihasan)
+- **GitHub:** [github.com/swe-jahidihasan](https://github.com/swe-jahidihasan)
+
+---
+
+**Available for freelance & full-time opportunities.**
+
+---
+
+*Made with ❤️ in Bangladesh*
