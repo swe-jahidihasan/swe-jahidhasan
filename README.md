@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=280&section=header&text=Jahidi%20Hasan&fontSize=80&animation=fadeIn&fontAlignY=38" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Flutter+Developer;Clean+Architecture+Expert;Building+Premium+Mobile+Apps" />
+  <h1 align="center" style="font-size: 52px; font-weight: 700; margin: 0;">
+    Jahidi Hasan
+  </h1>
+  <p align="center">
+    <strong>Flutter & Dart Specialist | Clean Architecture Expert</strong>
+  </p>
 </p>
 
 <p align="center">
@@ -12,16 +13,20 @@
   <a href="https://github.com/swe-jahidihasan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Premium+Mobile+Apps;Passionate+Software+Engineer" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
 
-I am a **passionate Flutter Developer** with strong expertise in building scalable and high-performance mobile applications using **Clean Architecture**.
+I am a **passionate Flutter Developer** specializing in building scalable, high-performance, and visually appealing mobile applications using **Clean Architecture**.
 
-Currently contributing to **iBank** — a modern digital banking and wallet solution, focusing on security, smooth UX, and clean code.
+Currently working on **iBank** — a modern digital banking and wallet solution, focusing on security, performance, and excellent user experience.
 
-- 🚀 **Specialties:** Clean Architecture, GetX, Firebase, Advanced State Management
-- 🎯 **Goal:** Deliver production-ready, maintainable, and beautiful mobile apps
+- 🚀 **Expertise:** Clean Architecture, GetX, Firebase, REST API Integration
+- 🎯 **Focus:** Production-ready, maintainable & premium quality code
 - 📍 **Location:** Dhaka, Bangladesh
 
 ---
@@ -34,33 +39,33 @@ Currently contributing to **iBank** — a modern digital banking and wallet solu
 | **State Management**  | GetX, Provider, Riverpod |
 | **Backend**           | Firebase, REST APIs |
 | **Architecture**      | Clean Architecture, MVVM |
-| **Tools & Design**    | Git, Postman, Figma, Photopea |
+| **Design & Tools**    | Figma, Postman, Git, GitHub |
 
 ---
 
 ### 📱 Featured Projects
 
 #### 🏦 **iBank - Digital Banking Solution**
-Modern and secure digital wallet & banking application.
+A secure and modern digital wallet & banking application.
 
 **Key Features:**
-- Biometric authentication & secure login
-- Real-time transactions and balance updates
-- Fund transfer, bill pay, and recharge system
-- Clean Architecture with GetX state management
+- Biometric login & secure authentication
+- Real-time transaction & balance updates
+- Fund transfer, bill payment & recharge
+- Advanced GetX state management
 
-**Tech:** Flutter • GetX • Firebase • REST API
+**Tech:** Flutter • GetX • Firebase
 
 ---
 
 #### 🔍 **JobSpot - Job Recruitment Platform**
-Full-featured job search and recruitment application.
+Complete job search and recruitment mobile application.
 
 **Key Features:**
-- Intelligent job filtering and search
-- Smooth onboarding flow
+- Smart job filtering & search
+- Onboarding flow
 - Application tracking
-- Modern & user-friendly interface
+- Clean and modern UI/UX
 
 **Tech:** Flutter • GetX • Firebase
 
@@ -69,7 +74,7 @@ Full-featured job search and recruitment application.
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swe-jahidihasan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swe-jahidihasan&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swe-jahidihasan&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
@@ -84,7 +89,7 @@ Full-featured job search and recruitment application.
 - **Email:** [jahidihasan.swe@gmail.com](mailto:jahidihasan.swe@gmail.com)
 - **LinkedIn:** [linkedin.com/in/swe-jahidihasan](https://linkedin.com/in/swe-jahidihasan)
 
-**Open to new opportunities (Freelance & Full-time)**
+**Open to Freelance and Full-time Opportunities**
 
 ---
 
