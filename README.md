@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Jahidi%20Hasan&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=220&section=header&text=Jahidi%20Hasan&fontSize=75&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
@@ -9,61 +9,66 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Flutter+&++Dart+Specialist;Clean+Architecture+Expert;Building+Premium+Mobile+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Specialist;Clean+Architecture+Expert;Building+Premium+Mobile+Apps;Passionate+Software+Engineer" />
 </p>
 
 ---
 
-### 👨‍💻 Professional Summary
+### 👨‍💻 About Me
 
-একজন **Flutter Developer** হিসেবে আমি স্কেলেবল এবং হাই-পারফরম্যান্স মোবাইল অ্যাপ্লিকেশন তৈরিতে দক্ষ। আমি **Dart**, **GetX**, এবং **Firebase** ব্যবহার করে আধুনিক ইউজার ইন্টারফেস এবং জটিল লজিক নিয়ে কাজ করি। আমার মূল লক্ষ্য হলো **Clean Architecture** অনুসরণ করে এমন কোড লেখা যা সহজে রক্ষণাবেক্ষণযোগ্য।
+একজন **প্যাশনেট ও অভিজ্ঞ Flutter Developer**। Clean Architecture অনুসরণ করে স্কেলেবল, মেইনটেইনেবল এবং হাই-পারফরম্যান্স মোবাইল অ্যাপ্লিকেশন তৈরি করতে দক্ষ। 
 
-- 🚀 **বর্তমানে কাজ করছি:** মোবাইল ব্যাংকিং সলিউশন **iBank** নিয়ে।
-- 🛠️ **দক্ষতা:** Clean Architecture, API Integration, এবং Premium UI Design।
-- 🎓 **শিক্ষাগত যোগ্যতা:** Computer Science।
-- 📫 **যোগাযোগ:** [jahidihasan.swe@gmail.com](mailto:jahidihasan.swe@gmail.com)।
+বর্তমানে **iBank** — একটি ডিজিটাল ব্যাংকিং সলিউশনে কাজ করছি, যেখানে সিকিউরিটি, পারফরম্যান্স এবং সুন্দর UI/UX এর উপর বিশেষ গুরুত্ব দিচ্ছি।
+
+- 🚀 **বিশেষজ্ঞতা:** Clean Architecture, GetX, Advanced State Management, API Integration
+- 🎯 **ফোকাস:** প্রিমিয়াম ইউজার এক্সপেরিয়েন্স ও প্রোডাকশন লেভেল কোডবেস
+- 📍 **অবস্থান:** Dhaka, Bangladesh
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### 🛠️ Tech Stack
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Mobile Development** | Flutter, Dart |
-| **State Management** | GetX, Provider |
-| **Backend & Database** | Firebase, REST APIs |
-| **Design & Mockup** | Figma, Photopea, PixelLab |
-| **Version Control** | Git, GitHub |
+| Category              | Technologies |
+|-----------------------|-------------|
+| **Mobile**            | Flutter, Dart |
+| **State Management**  | GetX, Provider, Riverpod |
+| **Backend**           | Firebase, REST API, Node.js |
+| **Architecture**      | Clean Architecture, MVVM, SOLID Principles |
+| **Tools**             | Git, GitHub, Postman, Figma, Firebase Console |
+| **Design**            | Figma, Photopea, Adobe XD |
 
 ---
 
 ### 📱 Featured Projects
 
-#### 🏦 **iBank - Digital Wallet Solution**
-ব্যাংকিং সেবাকে সহজ করতে তৈরি একটি আধুনিক প্ল্যাটফর্ম।
-- **Core Tech:** Flutter, GetX Controller।
-- **Key Focus:** Secure state management and seamless API flow।
+#### 🏦 **iBank - Digital Banking Solution**
+একটি আধুনিক ও সিকিউর ডিজিটাল ওয়ালেট ও ব্যাংকিং অ্যাপ্লিকেশন।
 
-#### 🔍 **JobSpot - Recruitment Platform**
-জব সিকারদের জন্য একটি পূর্ণাঙ্গ অ্যাপ যেখানে অনবোর্ডিং এবং ফিল্টারিং সিস্টেম রয়েছে।
-- **Highlights:** Clean UI, Job requirement logic।
+**Key Features:**
+- Secure authentication & biometric login
+- Real-time balance & transaction history
+- Fund transfer, bill payment & mobile recharge
+- Advanced GetX state management with clean architecture
 
----
-
-### 📊 Engineering Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swe-jahidihasan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swe-jahidihasan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swe-jahidihasan&theme=tokyonight&hide_border=true" width="100%" />
-</p>
+**Tech:** Flutter • GetX • Firebase • REST API
 
 ---
 
-### 🏆 Contribution Graph
+#### 🔍 **JobSpot - Job Recruitment Platform**
+জব সিকার ও এমপ্লয়ারদের জন্য পূর্ণাঙ্গ রিক্রুটমেন্ট অ্যাপ্লিকেশন।
+
+**Key Features:**
+- Smart job filtering & search system
+- Advanced onboarding flow
+- Application tracking
+- Clean & modern UI/UX
+
+**Tech:** Flutter • GetX • Firebase
+
+---
+
+### 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swe-jahidihasan&theme=tokyonight" width="100%" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=swe-jahidihasan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swe-jahidihasan&layout=compact&theme=tokyonight&hide_border=true" width="49%"
