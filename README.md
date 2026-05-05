@@ -1,30 +1,26 @@
-# 👋 Hi, I'm Jahidi Hasan
-
-### 🚀 Flutter Developer | Firebase | REST API
+<h1 align="center">Hi 👋, I'm Jahidi Hasan</h1>
+<h3 align="center">🚀 Flutter Developer | Firebase | REST API</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Flutter+Developer;Clean+Code+Lover;Mobile+App+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Flutter+Developer;Clean+Architecture+Learner;Mobile+App+Builder" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate Flutter developer focused on building clean, scalable, and user-friendly mobile applications.
-
-* 🔭 Currently working on Flutter apps
-* 🌱 Learning Clean Architecture & advanced state management
-* 💼 Open to internship & job opportunities
-* 📍 Rangpur, Bangladesh
+* 🔭 I’m currently working on Flutter Applications
+* 🌱 I’m learning Clean Architecture & advanced state management
+* 💼 I’m looking for internship & job opportunities
+* 📍 Based in Rangpur, Bangladesh
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode" />
+</p>
 
 ---
 
@@ -32,26 +28,24 @@ I am a passionate Flutter developer focused on building clean, scalable, and use
 
 ### 🏦 iBank App
 
-Modern banking UI with clean design
-👉 https://github.com/swe-jahidihasan/iBank
+🔗 https://github.com/swe-jahidihasan/iBank
 
 ### 🍔 Food Delivery App
 
-Complete food ordering experience
-👉 https://github.com/swe-jahidihasan/food-delivery-app
+🔗 https://github.com/swe-jahidihasan/food-delivery-app
 
 ### 🛒 Ecommerce App
 
-Shopping app with API integration
-👉 https://github.com/swe-jahidihasan/ecommerce
+🔗 https://github.com/swe-jahidihasan/ecommerce
 
 ---
 
-## 📸 Screenshots
+## 📸 App Screenshots
 
-<!-- Example (নিজে screenshot add করবে) -->
-
-![App Screenshot](https://via.placeholder.com/300x600.png?text=Your+App+UI)
+<p align="center">
+  <img src="screenshots/home.png" width="250"/>
+  <img src="screenshots/details.png" width="250"/>
+</p>
 
 ---
 
@@ -73,12 +67,15 @@ Shopping app with API integration
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/your-link
-* 📘 Facebook: https://facebook.com/your-link
-* 📧 Email: [your@email.com](mailto:your@email.com)
+<p align="center">
+  <a href="https://linkedin.com/in/your-link">LinkedIn</a> •
+  <a href="https://facebook.com/your-link">Facebook</a> •
+  <a href="mailto:your@email.com">Email</a>
+</p>
 
 ---
 
 ## 💡 Fun Fact
 
-I love building real-world apps that solve problems 🚀
+⚡ I love building apps that solve real-world problems and improve user experience
+
