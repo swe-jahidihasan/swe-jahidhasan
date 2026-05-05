@@ -1,5 +1,4 @@
-<h1 align="center">Hi there 👋, # 👋 Hi, I'm Jahidi Hasan  
-### 🚀 Flutter Developer | Firebase | REST API</h1>
+<h1 align="center">Hi there 👋,I'm Jahidi Hasan I</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/swe-jahidihasan">LinkedIn</a> • 
