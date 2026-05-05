@@ -60,7 +60,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=swe-jahidihasan&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=swe-jahidihasan&show_icons=true" />
 </p>
 
 ---
